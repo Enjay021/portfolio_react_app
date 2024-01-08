@@ -1,0 +1,77 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./img/product-chain-1.png",
+            "title": "Front-End",
+            "description": "A Front-End Web Developer is a tech industry professional who builds the front portion of websites that customers, guests, or clients use on a daily basis."
+        },
+        {
+            "id": "2",
+            "src": "./img/tag-1.png",
+            "title": "Back-End",
+            "description": "A backend developer's job entails focusing on website architecture, scripting, and writing code that communicates between the website’s database and the user's browser."
+        },
+        {
+            "id": "3",
+            "src": "./img/feather-pen-2.png",
+            "title": "UI & UX Design",
+            "description": "UI/UX designers are responsible for the design and implementation of all the experiences a user has when interacting with a digital tool, such as a website."
+        },
+        {
+            "id": "4",
+            "src": "./img/feather-pen-1.png",
+            "title": "Webflow Development",
+            "description": "A Webflow developer has all the necessary skills to develop a Webflow website. Webflow skills help create specific web page designs and add certain functionality."
+        }
+    ],
+    "portfolio": [
+        {
+            "id": "1",
+            "src": "./img/placeholder-image.png",
+            "title": "Old Portfolio",
+            "description": "A CSS, HTML, Bootstrap and Javascript based portfolio website I made while studying Web Development",
+            "link": "View In Github"
+        },
+        {
+            "id": "2",
+            "src": "./img/placeholder-image-1.png",
+            "title": "GPT3 Open Ai",
+            "description": "A Reactjs and NodeJs based sample of a fully responsive, modern and user-friendly Website.",
+            "link": "View In Github"
+        },
+        {
+            "id": "3",
+            "src": "./img/placeholder-image-2.png",
+            "title": "Graphic Design",
+            "description": " A mockup is an artistic rendering of a design or product that showcases said product in action.",
+            "link": "View In Github"
+        }
+    ],
+    "testimonial": [
+        {
+            "id": "1",
+            "count": "5",
+            "src": "./img/avatar-image.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+            "author_name": "Dianne Russel",
+            "author_designation": "Starbucks"
+        },
+        {
+            "id": "2",
+            "count": "5",
+            "src": "./img/avatar-image-1.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+            "author_name": "Kristin Watson",
+            "author_designation": "Louis Vuitton"
+        },
+        {
+            "id": "3",
+            "count": "5",
+            "src": "./img/avatar-image-2.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+            "author_name": "Kathryn Murphy",
+            "author_designation": "McDonald's"
+        }
+    ]
+}
